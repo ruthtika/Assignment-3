@@ -28,7 +28,7 @@ function threeStepsAB(text) {
 }
 
 // Contoh penggunaan fungsi
-console.log(threeStepsAB('lane borrowed')); // false
+console.log(threeStepsAB('lane borrowed')); // true
 console.log(threeStepsAB('bacon and meat')); // false
 console.log(threeStepsAB('you are boring')); // true
 console.log(threeStepsAB('barbarian'));     // true
